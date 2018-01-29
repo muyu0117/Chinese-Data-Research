@@ -6,7 +6,6 @@ Jan. 16th, 2018
 Yu Mu
 """
 import pandas as pd
-import numpy as np
 import data_utils
 
 
